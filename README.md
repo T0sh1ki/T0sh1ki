@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student of ICT Mahidol University
 ---------------------------------
 
-Im still in beginner rank of programming
+Im still in beginner rank of programming.
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [eleuen1000@gmail.com](mailto:eleuen1000@gmail.com)
-* 🧠  I'm learning C Java
-* 🤝  I'm open to collaborating on Portforlio Website and more
+* 🌍  I'm based in Thailand.
+* ✉️  You can contact me at [eleuen1000@gmail.com](mailto:eleuen1000@gmail.com).
+* 🧠  I'm learning C Java Python and more.
+* 🤝  I'm open to collaborating on Portforlio Website and more.
 
 ### Skills
 
